@@ -1,0 +1,100 @@
+# Periodic Madness
+
+This overhaul aims to add all the elements of the periodic table to Satisfactory. Including new and
+complex production chains to refine and produce new ores and resources for your growing factory, and
+delving deeper into chemistry and production chains than a normal vanilla playthrough. If you aren't a
+chemistry nerd going in, you'll become one going out.
+
+Sift through new "group ores", containing the elements of each separate periodic group (Alkali 
+Metals, Transition Metals, etc) which can be broken down using new fluids or items to get a specific
+new resource, all in the name of expansion. Of course, not all elements can just be found in the
+ground; you'll have to search through air, sea and ground to get everything you need to build further
+and research more.
+
+This is a port of the [Periodic Madness](https://mods.factorio.com/mod/periodic-madness) mod for
+Factorio.
+
+## Main features
+
+* [OBLIGATORY] 500+ recipes for you to endlessly scroll through, like you do on social media!
+* Whole buncha recipe complexity, or your money back.
+* Complete lack of maturity.
+* Custom [Satisfactory Modeler Database for Periodic Madness](https://github.com/QuingKhaos/satisfactory-modeler-pm)
+
+## Caveats
+
+**This is an early version of the port from the Factorio mod published for playtesting and gathering
+feedback and nothing is finished yet.** Thus many things may feel a bit unsatifactory.
+
+* Nodes are reassigned but models are still the original. So better look at what the text overlay
+  says.
+* Nickel chunks (uses Quartz nodes) and Zinc chunks (uses Bauxite nodes) may be scarce. Use
+  [Magic Machines](https://ficsit.app/mod/MagicMachine) to spawn them in without going on big
+  exploring.
+* No ingots yet. Ores are directly smelted into plates.
+* Recipes which don't have their own special building are handled by a catch-them-all Assembling
+  Machine and not spread over Constructor, Assembler, etc.
+* The ratios of recipes and amount of items needed may feel very unsatisfactory and may need a proper
+  rebalancing.
+* The Sulfur you could mine from nodes is not the same Sulfur that is used in the PM recipes.
+  Just forget those Sulfur nodes exist, they will be reassigned to a different group ore in one of
+  the next updates.
+* Instead of Space Elevator parts, the Space Elevator wants to get fed with science packs. As well as
+  all of the milestones.
+* Many milestones have other milestones as their dependency to create a given game progression. Sadly,
+  due to the limitation of the HUB, those milestones are not shown as long as you don't have unlocked
+  their dependencies yet. Surprise party!
+* Please ignore the research trees in the MAM, except for overclocking, slooping and dimensional
+  depot. They are useless.
+* Power production has not been overhauled yet and may not be balanced. Use Magic Machines again for
+  playtesting without worrying about power.
+* Most of the original PM assets were only available as 64x64, thus they appear pixelated in the game.
+  That's not a problem with your VRAM.
+* Nearly all of the new items use placeholder boxes on belts, as I don't have created any 3D models
+  for them yet.
+* All the custom machines are just cargo wagons with belt/pipe in-/outputs attached. They need custom
+  3D models in the future too.
+* Multiplayer is untested yet, feel free to try it out, although not dedicated server build is
+  published yet.
+* For foundation, walls, architecture, only the Ficsit style can be used for now.
+
+## Compatibilty
+
+This is a complete overhaul of items and recipes in the game. Thus no mod which adds new content or
+modifies existing content is compatible with Periodic Madness, unless stated otherwise. Most QoL mods
+should be compatible, tho.
+
+The following content mods were made compatible (changed recipes and/or progression):
+
+* [Circuitry](https://ficsit.app/mod/FicsitWiremod)
+* [Factory Style](https://ficsit.app/mod/AB_MiscDecoMod)
+* [Loader and Unloader](https://ficsit.app/mod/Loaders), altough the unloader can't handle recipes
+  with multiple item outputs properly. It results in a sushi belt.
+* [Small Awesome Sink](https://ficsit.app/mod/SmallAwesomeSink), altough the small fluid sink is
+  removed, as PM has its own means to get rid of fluids.
+* [Wall Conveyor Supports](https://ficsit.app/mod/WallConveyorSupports)
+* [Wall Pipe Supports](https://ficsit.app/mod/WallPipeSupports)
+
+The following content mods are included as part of Periodic Madness and adapted to be compatible:
+
+* [Fluid Extras](https://ficsit.app/mod/AB_FluidExtras), only the pipe junctions are included as well
+  as the Mini Water Extractor which is used as Seawater Extractor.
+
+### Circuitry Compatibility
+
+To add circuit wires to all custom machines, the following steps are needed during development of the
+mod:
+
+- Go to the [releases](https://github.com/QuingKhaos/PeriodicMadness/releases) page.
+- Download the `PeriodicMadness.json` from the release matching your installed mod version.
+- Put it into `<SatisfactoryInstallDir>/FactoryGame/CircuitryAPI/`.
+
+## Credits
+
+* Thanks to Mr.SmoothieHuman allowing me to do this port.
+* Thanks to [Kyrium](https://ficsit.app/user/9uvZtCA4cM6H4q) for allwoing to reuse assets from KLib.
+* Thanks to [SirDigby](https://ficsit.app/user/4Mpda7UPxKixEB) for providing the blueprint code to
+  fix the items per minute and overclock values in the machines widget.
+* Thanks to [DavidHGillen](https://ficsit.app/user/3cMuLsemCEZUDc), who created the awesome
+  [Modeling Tools](https://github.com/DavidHGillen/Satisfactory_ModelingTools), which are used by
+  every custom building.
