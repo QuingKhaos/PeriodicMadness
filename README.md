@@ -21,6 +21,11 @@ Factorio.
 * Complete lack of maturity.
 * Custom [Satisfactory Modeler Database for Periodic Madness](https://github.com/QuingKhaos/satisfactory-modeler-pm)
 
+## Feedback
+
+Please post your feedback into the dedicated [Discord thread](https://discordapp.com/channels/555424930502541343/1463163423348101153)
+on the [Modding Discord](https://discord.gg/xkVJ73E).
+
 ## Caveats
 
 **This is an early version of the port from the Factorio mod published for playtesting and gathering
