@@ -31,19 +31,22 @@ on the [Modding Discord](https://discord.gg/xkVJ73E).
 **This is an early version of the port from the Factorio mod published for playtesting and gathering
 feedback and nothing is finished yet.** Thus many things may feel a bit unsatifactory.
 
+* Most new items are not sinkable, as I have not assigned AWESOME points to them yet.
 * Nodes are reassigned but models are still the original. So better look at what the text overlay
   says.
 * Nickel chunks (uses Quartz nodes) and Zinc chunks (uses Bauxite nodes) may be scarce. Use
   [Magic Machines](https://ficsit.app/mod/MagicMachine) to spawn them in without going on big
   exploring.
+* **Use Magic Machines to spawn in the needed steam for some recipes.**. I need to find a good way to
+  produce steam yet.
 * No ingots yet. Ores are directly smelted into plates.
+* Beside their name, the Burner variants and normal Furnace still require electricity until the fuel
+  powered machinery is implemented.
+* Beside from the two inventory expansions there are no alternate recipes to unlock via hard drives yet.
 * Recipes which don't have their own special building are handled by a catch-them-all Assembling
   Machine and not spread over Constructor, Assembler, etc.
 * The ratios of recipes and amount of items needed may feel very unsatisfactory and may need a proper
   rebalancing.
-* The Sulfur you could mine from nodes is not the same Sulfur that is used in the PM recipes.
-  Just forget those Sulfur nodes exist, they will be reassigned to a different group ore in one of
-  the next updates.
 * Instead of Space Elevator parts, the Space Elevator wants to get fed with science packs. As well as
   all of the milestones.
 * Many milestones have other milestones as their dependency to create a given game progression. Sadly,
