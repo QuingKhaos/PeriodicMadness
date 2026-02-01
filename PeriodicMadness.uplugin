@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.2.2",
-	"SemVersion": "0.2.2",
+	"VersionName": "0.3.0",
+	"SemVersion": "0.3.0",
 	"FriendlyName": "Periodic Madness",
 	"Description": "This overhaul mod aims to add all the elements of the periodic table to Satisfactory.",
 	"Category": "Modding",
@@ -44,6 +44,12 @@
 			"Name": "FactorioMachine",
 			"Enabled": true,
 			"SemVersion": "^1.0.0"
+		},
+		{
+			"Name": "FicsItNetworks",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": "^1.2.0"
 		},
 		{
 			"Name": "FicsitWiremod",

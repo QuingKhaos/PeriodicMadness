@@ -37,8 +37,10 @@ feedback and nothing is finished yet.** Thus many things may feel a bit unsatifa
 * Nickel chunks (uses Quartz nodes) and Zinc chunks (uses Bauxite nodes) may be scarce. Use
   [Magic Machines](https://ficsit.app/mod/MagicMachine) to spawn them in without going on big
   exploring.
-* **Use Magic Machines to spawn in the needed steam for some recipes.**. I need to find a good way to
+* **Use Magic Machines to spawn in the needed steam for some recipes.** I need to find a good way to
   produce steam yet.
+* **Use Magic Machines to spawn in the group metals ores, which don't have any nodes yet (Alkali
+  Metals Ore).**
 * No ingots yet. Ores are directly smelted into plates.
 * Beside their name, the Burner variants and normal Furnace still require electricity until the fuel
   powered machinery is implemented.
@@ -76,6 +78,7 @@ The following content mods were made compatible (changed recipes and/or progress
 
 * [Circuitry](https://ficsit.app/mod/FicsitWiremod)
 * [Factory Style](https://ficsit.app/mod/AB_MiscDecoMod)
+* [FicsIt-Networks](https://ficsit.app/mod/FicsItNetworks)
 * [Loader and Unloader](https://ficsit.app/mod/Loaders), altough the unloader can't handle recipes
   with multiple item outputs properly. It results in a sushi belt.
 * [Small Awesome Sink](https://ficsit.app/mod/SmallAwesomeSink), altough the small fluid sink is
