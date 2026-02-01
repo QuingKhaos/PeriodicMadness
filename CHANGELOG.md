@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Conveyor meshes for some plates.
 
+### Changed
+
+- [BREAKING] Use different base game item for Bismuth Crystals.
+
 ## [0.2.0] - 2026-01-31
 
 ### Added
