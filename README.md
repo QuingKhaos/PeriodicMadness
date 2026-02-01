@@ -58,7 +58,7 @@ feedback and nothing is finished yet.** Thus many things may feel a bit unsatifa
   playtesting without worrying about power.
 * Most of the original PM assets were only available as 64x64, thus they appear pixelated in the game.
   That's not a problem with your VRAM.
-* Nearly all of the new items use placeholder boxes on belts, as I don't have created any 3D models
+* Nearly all of the new items use placeholder boxes on belts, as I don't have access to all 3D models
   for them yet.
 * All the custom machines are just cargo wagons with belt/pipe in-/outputs attached. They need custom
   3D models in the future too.

@@ -7,11 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Conveyor meshes for some plates.
+
 ## [0.2.0] - 2026-01-31
 
 ### Added
 
-- Content for phase 2.
+- Content for tier 3.
 
 ### Changed
 

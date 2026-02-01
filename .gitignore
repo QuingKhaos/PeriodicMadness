@@ -1,3 +1,9 @@
+# Assets to import
+/Assets/
+
+# Blender backups
+*.blend1
+
 # Visual Studio 2015 user specific files
 .vs/
 
