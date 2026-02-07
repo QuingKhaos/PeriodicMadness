@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.1] - 2026-02-07
+
 ### Added
 
 - Conveyor meshes for some plates.
@@ -57,7 +59,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Content for phase 1.
 
-[Unreleased]: https://github.com/QuingKhaos/PeriodicMadness/compare/v0.2.0...HEAD
+[Unreleased]: https://github.com/QuingKhaos/PeriodicMadness/compare/v0.2.1...HEAD
+[0.2.1]: https://github.com/QuingKhaos/PeriodicMadness/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/QuingKhaos/PeriodicMadness/compare/v0.1.4...v0.2.0
 [0.1.4]: https://github.com/QuingKhaos/PeriodicMadness/compare/v0.1.3...v0.1.4
 [0.1.3]: https://github.com/QuingKhaos/PeriodicMadness/compare/v0.1.2...v0.1.3
