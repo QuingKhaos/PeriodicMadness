@@ -1,16 +1,16 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.3.0",
-	"SemVersion": "0.3.0",
+	"VersionName": "0.4.0",
+	"SemVersion": "0.4.0",
 	"FriendlyName": "Periodic Madness",
 	"Description": "This overhaul mod aims to add all the elements of the periodic table to Satisfactory.",
 	"Category": "Modding",
 	"CreatedBy": "QuingKhaos",
-	"CreatedByURL": "",
+	"CreatedByURL": "https://github.com/QuingKhaos",
 	"DocsURL": "",
-	"MarketplaceURL": "",
-	"SupportURL": "",
+	"MarketplaceURL": "https://ficsit.app/mod/PeriodicMadness",
+	"SupportURL": "https://discord.gg/xkVJ73E",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
@@ -77,6 +77,16 @@
 			"Name": "ProductionBoostPerRecipe",
 			"Enabled": true,
 			"SemVersion": "^1.0.0"
+		},
+		{
+			"Name": "RefinedPower",
+			"Enabled": true,
+			"SemVersion": "^4.0.44"
+		},
+		{
+			"Name": "RefinedRDApi",
+			"Enabled": true,
+			"SemVersion": "^1.0.7"
 		},
 		{
 			"Name": "SmallAwesomeSink",

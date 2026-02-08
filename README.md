@@ -37,8 +37,6 @@ feedback and nothing is finished yet.** Thus many things may feel a bit unsatifa
 * Nickel chunks (uses Quartz nodes) and Zinc chunks (uses Bauxite nodes) may be scarce. Use
   [Magic Machines](https://ficsit.app/mod/MagicMachine) to spawn them in without going on big
   exploring.
-* **Use Magic Machines to spawn in the needed steam for some recipes.** I need to find a good way to
-  produce steam yet.
 * **Use Magic Machines to spawn in the group metals ores, which don't have any nodes yet (Alkali
   Metals Ore).**
 * No ingots yet. Ores are directly smelted into plates.
@@ -56,8 +54,6 @@ feedback and nothing is finished yet.** Thus many things may feel a bit unsatifa
   their dependencies yet. Surprise party!
 * Please ignore the research trees in the MAM, except for overclocking, slooping and dimensional
   depot. They are useless.
-* Power production has not been overhauled yet and may not be balanced. Use Magic Machines again for
-  playtesting without worrying about power.
 * Most of the original PM assets were only available as 64x64, thus they appear pixelated in the game.
   That's not a problem with your VRAM.
 * Nearly all of the new items use placeholder boxes on belts, as I don't have access to all 3D models
@@ -88,8 +84,10 @@ The following content mods were made compatible (changed recipes and/or progress
 
 The following content mods are included as part of Periodic Madness and adapted to be compatible:
 
-* [Fluid Extras](https://ficsit.app/mod/AB_FluidExtras), only the pipe junctions are included as well
-  as the Mini Water Extractor which is used as Seawater Extractor.
+* [Fluid Extras](https://ficsit.app/mod/AB_FluidExtras), including only the pipe junctions and the
+  Mini Water Extractor, which is used as Seawater Extractor.
+* [Refined Power](https://ficsit.app/mod/RefinedPower), including only solar panels, water
+  turbines/dam and Modular Power.
 
 ### Circuitry Compatibility
 
