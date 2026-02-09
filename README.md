@@ -72,6 +72,7 @@ should be compatible, tho.
 
 The following content mods were made compatible (changed recipes and/or progression):
 
+* [Awesome Sink Storage](https://ficsit.app/mod/AwesomeSinkStorage)
 * [Circuitry](https://ficsit.app/mod/FicsitWiremod)
 * [Factory Style](https://ficsit.app/mod/AB_MiscDecoMod)
 * [FicsIt-Networks](https://ficsit.app/mod/FicsItNetworks)
