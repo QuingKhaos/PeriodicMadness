@@ -75,6 +75,7 @@ The following content mods were made compatible (changed recipes and/or progress
 * [Circuitry](https://ficsit.app/mod/FicsitWiremod)
 * [Factory Style](https://ficsit.app/mod/AB_MiscDecoMod)
 * [FicsIt-Networks](https://ficsit.app/mod/FicsItNetworks)
+* [Flex Splines](https://ficsit.app/mod/FlexSplines)
 * [Loader and Unloader](https://ficsit.app/mod/Loaders), altough the unloader can't handle recipes
   with multiple item outputs properly. It results in a sushi belt.
 * [Small Awesome Sink](https://ficsit.app/mod/SmallAwesomeSink), altough the small fluid sink is

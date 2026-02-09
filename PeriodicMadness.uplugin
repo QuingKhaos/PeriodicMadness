@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.4.0",
-	"SemVersion": "0.4.0",
+	"VersionName": "0.4.1",
+	"SemVersion": "0.4.1",
 	"FriendlyName": "Periodic Madness",
 	"Description": "This overhaul mod aims to add all the elements of the periodic table to Satisfactory.",
 	"Category": "Modding",
@@ -56,6 +56,12 @@
 			"Enabled": true,
 			"Optional": true,
 			"SemVersion": "^14.1.2"
+		},
+		{
+			"Name": "FlexSplines",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": "^1.0.29"
 		},
 		{
 			"Name": "KBFL",
