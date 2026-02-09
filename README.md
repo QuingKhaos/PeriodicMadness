@@ -38,7 +38,7 @@ feedback and nothing is finished yet.** Thus many things may feel a bit unsatifa
   [Magic Machines](https://ficsit.app/mod/MagicMachine) to spawn them in without going on big
   exploring.
 * **Use Magic Machines to spawn in the group metals ores, which don't have any nodes yet (Alkali
-  Metals Ore).**
+  Metals Ore, Metalloids Ore).**
 * No ingots yet. Ores are directly smelted into plates.
 * Beside their name, the Burner variants and normal Furnace still require electricity until the fuel
   powered machinery is implemented.
