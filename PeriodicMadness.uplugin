@@ -36,6 +36,12 @@
 			"SemVersion": "^1.1.0"
 		},
 		{
+			"Name": "AwesomeSinkStorage",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": "^2.1.0"
+		},
+		{
 			"Name": "DynamicProgressionHUD",
 			"Enabled": true,
 			"SemVersion": "^1.1.5"

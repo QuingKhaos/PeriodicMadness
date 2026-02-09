@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Compatibility with Awesome Sink Storage.
 - Compatibility with Flex Splines.
 
 ## [0.4.0] - 2026-02-09
