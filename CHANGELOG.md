@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Removed unused MAM research trees.
+- Cleaned up unused MAM research tree nodes.
+
+## [0.5.0] - 2026-02-11
+
 ### Added
 
 - Second third of content for tier 4.
@@ -98,7 +105,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Content for phase 1.
 
-[Unreleased]: https://github.com/QuingKhaos/PeriodicMadness/compare/v0.4.1...HEAD
+[Unreleased]: https://github.com/QuingKhaos/PeriodicMadness/compare/v0.5.0...HEAD
+[0.5.0]: https://github.com/QuingKhaos/PeriodicMadness/compare/v0.4.1...v0.5.0
 [0.4.1]: https://github.com/QuingKhaos/PeriodicMadness/compare/v0.4.0...v0.4.1
 [0.4.0]: https://github.com/QuingKhaos/PeriodicMadness/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/QuingKhaos/PeriodicMadness/compare/v0.2.2...v0.3.0

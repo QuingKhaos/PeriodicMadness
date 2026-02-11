@@ -1,5 +1,7 @@
 # Periodic Madness
 
+**NOT COMPATIBLE with existing saves. You need to start a new save game with Periodic Madness.**
+
 This overhaul aims to add all the elements of the periodic table to Satisfactory. Including new and
 complex production chains to refine and produce new ores and resources for your growing factory, and
 delving deeper into chemistry and production chains than a normal vanilla playthrough. If you aren't a
@@ -52,8 +54,6 @@ feedback and nothing is finished yet.** Thus many things may feel a bit unsatifa
 * Many milestones have other milestones as their dependency to create a given game progression. Sadly,
   due to the limitation of the HUB, those milestones are not shown as long as you don't have unlocked
   their dependencies yet. Surprise party!
-* Please ignore the research trees in the MAM, except for overclocking, slooping and dimensional
-  depot. They are useless.
 * Most of the original PM assets were only available as 64x64, thus they appear pixelated in the game.
   That's not a problem with your VRAM.
 * Nearly all of the new items use placeholder boxes on belts, as I don't have access to all 3D models
