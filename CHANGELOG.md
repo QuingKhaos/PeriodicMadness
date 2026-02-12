@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed unused MAM research trees.
 - Cleaned up unused MAM research tree nodes.
 - Simplified plate meshes and textures.
+- Better meshes for wires.
 
 ## [0.5.0] - 2026-02-11
 
