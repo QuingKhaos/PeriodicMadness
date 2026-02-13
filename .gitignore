@@ -1,5 +1,6 @@
 # Assets to import
 /Assets/
+/Export/
 
 # Blender backups
 *.blend1
