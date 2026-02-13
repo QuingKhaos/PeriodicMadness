@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Abbreviations for all solid items.
 - Custom meshes for all the ores.
 - Custom meshes for all the chunks.
+- Individually colored boxes for all other solid items without custom meshes.
 
 ### Changed
 
