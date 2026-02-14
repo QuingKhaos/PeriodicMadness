@@ -22,6 +22,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplified plate meshes and textures.
 - Better meshes for wires.
 
+### Removed
+
+- Removed dependency to FactorioMachine and KLib, as those assets are no longer used.
+
 ## [0.5.0] - 2026-02-11
 
 ### Added

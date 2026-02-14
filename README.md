@@ -56,7 +56,7 @@ feedback and nothing is finished yet.** Thus many things may feel a bit unsatifa
   their dependencies yet. Surprise party!
 * Most of the original PM assets were only available as 64x64, thus they appear pixelated in the game.
   That's not a problem with your VRAM.
-* Nearly all of the new items use placeholder boxes on belts, as I don't have access to all 3D models
+* Many of the new items use placeholder boxes on belts, as I don't have access to all 3D models
   for them yet.
 * All the custom machines are just cargo wagons with belt/pipe in-/outputs attached. They need custom
   3D models in the future too.
@@ -103,7 +103,6 @@ mod:
 ## Credits
 
 * Thanks to Mr.SmoothieHuman allowing me to do this port.
-* Thanks to [Kyrium](https://ficsit.app/user/9uvZtCA4cM6H4q) for allwoing to reuse assets from KLib.
 * Thanks to [SirDigby](https://ficsit.app/user/4Mpda7UPxKixEB) for providing the blueprint code to
   fix the items per minute and overclock values in the machines widget.
 * Thanks to [DavidHGillen](https://ficsit.app/user/3cMuLsemCEZUDc), who created the awesome

@@ -47,11 +47,6 @@
 			"SemVersion": "^1.1.5"
 		},
 		{
-			"Name": "FactorioMachine",
-			"Enabled": true,
-			"SemVersion": "^1.0.0"
-		},
-		{
 			"Name": "FicsItNetworks",
 			"Enabled": true,
 			"Optional": true,
@@ -79,11 +74,6 @@
 			"Name": "KBFL",
 			"Enabled": true,
 			"SemVersion": "^3.3.2"
-		},
-		{
-			"Name": "KLib",
-			"Enabled": true,
-			"SemVersion": "^4.3.4"
 		},
 		{
 			"Name": "Loaders",
