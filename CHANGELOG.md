@@ -17,6 +17,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [BREAKING] Complete rework of fluid packaging recipes.
 - Retexturize with Substance.
 
+### Fixed
+
+- Cleaner power generation should depend on unlocking automation.
+
 ## [0.6.0] - 2026-02-14
 
 ### Added
