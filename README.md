@@ -2,9 +2,8 @@
 
 **NOT COMPATIBLE with existing saves. You need to start a new save game with Periodic Madness.**
 
-**0.6 UPDATE NOTICE:** I removed some dependencies, as they are no longer needed. Thus loading a previous
-save may warn you that FactorioMachine, KLib and other mods are missing. That is not a problem, you can
-proceed to load your save as usual.
+**0.7 UPDATE NOTICE:** Complete rework of fluid packaging recipes. If you already package fluids you
+to rework your packaging/unpackaging production chains!
 
 This overhaul aims to add all the elements of the periodic table to Satisfactory. Including new and
 complex production chains to refine and produce new ores and resources for your growing factory, and
