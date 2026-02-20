@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Icons should match their respective conveyor mesh.
 - [BREAKING] Complete rework of fluid packaging recipes.
 - Move coal heater unlock to cleaner power generation.
+- [BREAKING] Rework empty/polonium fuel cell.
 
 ### Fixed
 
