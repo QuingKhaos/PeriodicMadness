@@ -10,12 +10,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Added
 
 - Custom meshes for all packaged fluids.
-- Custom meshes for plastic and resin intermediates.
+- Custom meshes for a few intermediates.
 
 ### Changed
 
 - Retexturize with Substance.
-- Better conveyor mesh for Fiberoptic Cable.
+- Icons should match their respective conveyor mesh.
 - [BREAKING] Complete rework of fluid packaging recipes.
 - Move coal heater unlock to cleaner power generation.
 
