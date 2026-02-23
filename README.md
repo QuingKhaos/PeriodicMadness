@@ -2,8 +2,11 @@
 
 **NOT COMPATIBLE with existing saves. You need to start a new save game with Periodic Madness.**
 
-**0.7 UPDATE NOTICE:** Complete rework of fluid packaging recipes. If you already package fluids you
-to rework your packaging/unpackaging production chains!
+**TIP**: Start in the Rocky Desert, this is the only place where I have spawned all nodes necessary
+to get all the chunks and ores you need. Otherwise you need to use [Magic Machines](https://ficsit.app/mod/MagicMachine)
+to get them.
+
+---
 
 This overhaul aims to add all the elements of the periodic table to Satisfactory. Including new and
 complex production chains to refine and produce new ores and resources for your growing factory, and
@@ -37,13 +40,7 @@ on the [Modding Discord](https://discord.gg/xkVJ73E).
 feedback and nothing is finished yet.** Thus many things may feel a bit unsatifactory.
 
 * Most new items are not sinkable, as I have not assigned AWESOME points to them yet.
-* Nodes are reassigned but models are still the original. So better look at what the text overlay
-  says.
-* Nickel chunks (uses Quartz nodes) and Zinc chunks (uses Bauxite nodes) may be scarce. Use
-  [Magic Machines](https://ficsit.app/mod/MagicMachine) to spawn them in without going on big
-  exploring.
-* **Use Magic Machines to spawn in the group metals ores, which don't have any nodes yet (Alkali
-  Metals Ore, Metalloids Ore).**
+* ADA messages played if you collect some of the new chunks and ores are plainly wrong.
 * No ingots yet. Ores are directly smelted into plates.
 * Beside their name, the Burner variants and normal Furnace still require electricity until the fuel
   powered machinery is implemented.
@@ -63,8 +60,7 @@ feedback and nothing is finished yet.** Thus many things may feel a bit unsatifa
   for them yet.
 * All the custom machines are just cargo wagons with belt/pipe in-/outputs attached. They need custom
   3D models in the future too.
-* Multiplayer is untested yet, feel free to try it out, although not dedicated server build is
-  published yet.
+* Multiplayer is not supported yet.
 * For foundation, walls, architecture, only the Ficsit style can be used for now.
 
 ## Compatibilty
